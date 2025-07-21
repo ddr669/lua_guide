@@ -34,4 +34,21 @@ for _, value in pairs(days) do
 	print(_, value)
 end
 
+--
+-- and for with a variable
+--
+-- from 10 to 19 by 1
+for i = 10, 19, 1 do
+	print(i)
+end
+--
+-- repeat and until
+--
+i = 10
+repeat
+	print("value of i: "..i)
+	i = i + 1
+until i > 20
+
+
 
