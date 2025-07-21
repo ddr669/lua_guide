@@ -1,5 +1,5 @@
 
-[![lua banner](var/lua-image.jpg)
+![lua banner](var/lua-image.jpg)
 
 # Lua 🌙
 
